@@ -3,8 +3,8 @@ Haulmont Test Task
 Build and Run
 Run in the command line:
 
-mvn clean
+1.mvn clean
 mvn install
 mvn spring-boot:run
 
-Open http://localhost:8080 in a web browser.
+2.Open http://localhost:8080 in a web browser.
